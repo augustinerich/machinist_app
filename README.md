@@ -3,6 +3,11 @@
 ## 🛠 Executive Summary
 A mobile-edge utility designed for the shop floor to bridge the gap between material physics and real-time data logging. The app simulates tool degradation and calculates machining parameters with industrially verified accuracy.
 
+## 🎥 Project Demo
+<p align="center">
+  <video src="machinist_app.mp4" width="100%" controls></video>
+</p>
+
 ## 🚀 Core Technical Pillars
 
 * **Physics-Informed Wear Engine**: Developed a modular `MachiningEngine` using Taylor’s Tool Life equations to predict Remaining Useful Life (RUL).
