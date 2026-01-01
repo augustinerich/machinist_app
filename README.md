@@ -4,9 +4,8 @@
 A mobile-edge utility designed for the shop floor to bridge the gap between material physics and real-time data logging. The app simulates tool degradation and calculates machining parameters with industrially verified accuracy.
 
 ## 🎥 Project Demo
-<p align="center">
-  <video src="machinist_app.mp4" width="100%" controls></video>
-</p>
+https://github.com/user-attachments/assets/15e55f26-37ea-42be-b524-43c140d63fcc
+
 
 ## 🚀 Core Technical Pillars
 
